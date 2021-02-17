@@ -1,0 +1,15 @@
+{
+  "name": "my-project",
+  "collaborators": [
+    "sean watters <sean@watters.io>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "my_project_bg.wasm",
+    "my_project.js",
+    "my_project.d.ts"
+  ],
+  "module": "my_project.js",
+  "types": "my_project.d.ts",
+  "sideEffects": false
+}
